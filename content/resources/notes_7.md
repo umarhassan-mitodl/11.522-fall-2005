@@ -5,6 +5,8 @@ description: This resource contains notes based on municipalities are recognizin
 file: /courses/11-522-research-seminar-on-urban-information-systems-fall-2005/df76e63bc45109f487d2e2acd17e8ece_notes_7.pdf
 file_size: 96515
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
