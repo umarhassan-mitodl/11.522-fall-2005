@@ -2,8 +2,6 @@
 content_type: page
 description: The readings section contains list of the important books for the course.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
