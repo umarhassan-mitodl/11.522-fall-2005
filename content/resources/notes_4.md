@@ -6,8 +6,6 @@ description: This resource contains notes based on special case of framework abo
 file: /courses/11-522-research-seminar-on-urban-information-systems-fall-2005/f2db621cca5c223e870e380e4bce62f1_notes_4.pdf
 file_size: 88817
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
