@@ -30,19 +30,19 @@ City Knowledge: An Emergent Information Infrastructure for Sustainable Urban Mai
 
 In preparation for this discussion, we suggest that you read or skim the following:
 
-For a full explanation of the concept of City Knowledge, you should skim Fabio Carrera's [PhD Dissertation](http://users.wpi.edu/%7Ecarrera/MIT/dissertation.html) especially Part I and Part V and you should ready more carefully Part IV.    
-Part I ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20I.pdf))    
-Part V ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20V.pdf))    
-Part IV ([PDF](http://users.wpi.edu/%7Ecarrera/MIT/Dissertation/Part%20IV.pdf))
+For a full explanation of the concept of City Knowledge, you should skim Fabio Carrera's {{% resource_link "3782ac98-726d-450e-80cb-2288a00b45e8" "PhD Dissertation" %}} especially Part I and Part V and you should ready more carefully Part IV.    
+Part I ({{% resource_link "9fa1d100-eb26-4f55-8afa-1ebb17f240ee" "PDF" %}})    
+Part V ({{% resource_link "aeb65146-a1d5-4247-ad6b-b6bf2fba0287" "PDF" %}})    
+Part IV ({{% resource_link "ec757938-64dd-4bcd-9cf9-1341a4107a86" "PDF" %}})
 
-When it comes to implementing government policies, a school of thought that has been put forward by DUSP faculty, suggests that we focus on the so-called "Five tools of Government Action." A full description of these tools can be found in the book [*Preserving the Built Heritage*](https://www.amazon.com/Preserving-Built-Heritage-Tools-Implementation/dp/0874518318) edited by our own Mark Schuster and John DeMonchaux. There is a summary of the concepts in the introduction chapter. A shorter version is contained in Policy and Planning with Purpose. (PDF)
+When it comes to implementing government policies, a school of thought that has been put forward by DUSP faculty, suggests that we focus on the so-called "Five tools of Government Action." A full description of these tools can be found in the book {{% resource_link "1bfd6e3e-91d5-4f85-98d1-c58cefe38d96" "*Preserving the Built Heritage*" %}} edited by our own Mark Schuster and John DeMonchaux. There is a summary of the concepts in the introduction chapter. A shorter version is contained in Policy and Planning with Purpose. (PDF)
 
-The concept of "Emergence" features prominently in the City Knowledge approach. If you are interested, we suggest that you read the popular book *Emergence* by Steven Johnson. You may find the book very stimulating. At the very least should familiarize yourself with the concept by googling "emergence" so you can look at shorter explanations such as the [Wikipedia](http://en.wikipedia.org/wiki/Emergence) entry for the term.
+The concept of "Emergence" features prominently in the City Knowledge approach. If you are interested, we suggest that you read the popular book *Emergence* by Steven Johnson. You may find the book very stimulating. At the very least should familiarize yourself with the concept by googling "emergence" so you can look at shorter explanations such as the {{% resource_link "5346b19f-afc5-4b71-812b-d3878cd38ad0" "Wikipedia" %}} entry for the term.
 
-Prof. Ferreira describes middleware applications in his article entitled "Information Technologies that Change Relationships between Low-Income Communities and the Public and Non-profit Agencies that Serve Them" as well as in the MIT/MAPC proposal "Intelligent Middleware for Understanding Neighborhood Markets" a pilot project of the Brookings Institution [Urban Markets Initiative](https://brookings.edu/author/the-urban-markets-initiative-brookings-institution-metropolitan-policy-program/?type=all&paged=1).
+Prof. Ferreira describes middleware applications in his article entitled "Information Technologies that Change Relationships between Low-Income Communities and the Public and Non-profit Agencies that Serve Them" as well as in the MIT/MAPC proposal "Intelligent Middleware for Understanding Neighborhood Markets" a pilot project of the Brookings Institution {{% resource_link "604347c5-c651-4dec-a650-46daab3dda44" "Urban Markets Initiative" %}}.
 
 For recent accounts of the Planning Support Systems that are already in use around the world, you can take a look at Klosterman's recent (2005) guest editorial in Environment and Planning B, as well as to Maguire and Longley's paper on "The emergence of geoportals and their role in spatial data infrastructures." An older, but interesting paper predating City Knowledge is Rubenstein-Montano's Survey of knowledge-based information systems for urban planning.    
-[Klosterman's Editorial](https://journals.sagepub.com/doi/abs/10.1068/b3204ed)  
+{{% resource_link "5bdba536-346b-41f3-afde-643f14b3a82a" "Klosterman's Editorial" %}}  
 Maguire and Longley's Paper    
 Rubenstein-Montano, B. "A survey of knowledge-based information systems for urban planning: moving towards knowledge management." *Computers, Environment and Urban Systems* 24 (2000): 155-172.
 
@@ -52,9 +52,9 @@ Rubenstein-Montano, B. "A survey of knowledge-based information systems for urba
 Sharing Data and Empowering Communities - Fabio Carrera and Joe Ferreira
 {{< tdclose >}}{{< tdopen >}}
 
-Community of Practice 'Wiki' for the "[National Infrastructure for Community Statistics](https://www.brookings.edu/on-the-record/national-infrastructure-for-community-statistics-an-overview/)." (NICS)
+Community of Practice 'Wiki' for the "{{% resource_link "a68eaef7-a329-4067-b3e2-60d821fe5247" "National Infrastructure for Community Statistics" %}}." (NICS)
 
-An overview of the [Urban Markets Initiative (UMI)](https://www.brookings.edu/author/the-urban-markets-initiative-brookings-institution-metropolitan-policy-program/) as discussed in the full-paper version of "[Using Information to Drive Change: New Ways of Moving Markets](https://www.brookings.edu/research/using-information-to-drive-change-new-ways-of-moving-markets/)."
+An overview of the {{% resource_link "44ca94d5-4de4-457d-b9eb-16f6040d032c" "Urban Markets Initiative (UMI)" %}} as discussed in the full-paper version of "{{% resource_link "7ba12b0e-afb2-4452-9213-e72de05aff92" "Using Information to Drive Change: New Ways of Moving Markets" %}}."
 
 The MIT/MAPC proposal that has been funded by the UMI program: "Intelligent Middleware for Understanding Neighborhood Markets."
 
@@ -62,7 +62,7 @@ The Urban Institute proposal that has also been funded by the UMI program: "Deci
 
 Singh, Raj. "Collaborative Urban Information Systems: A Web Services Approach." Chapter 1 of *Dissertation*. MIT, 2004.
 
-[Google™ Earth](http://earth.google.com/) and [Phil Bradley's Web site](https://philbradley.typepad.com/phil_bradleys_weblog/) discussing the user-publishing features of Google{{< sup "TM" >}} Earth.
+{{% resource_link "c9b4d2b7-183f-40a2-9676-9e100c8540ef" "Google™ Earth" %}} and {{% resource_link "79a2e5d5-7d66-4f1b-9d05-040b5adf58cd" "Phil Bradley's Web site" %}} discussing the user-publishing features of Google{{< sup "TM" >}} Earth.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -74,20 +74,20 @@ Literature on the Strategies to Redevelop Inner Cities. Just Skim them to get a 
 
 Porter, Michael E. "New Strategies for Inner-City Economic Development." *Economic Development Quarterly* 11, no. 1 (February 1997). Thousand Oaks, CA: Sage Periodicals Press.
 
-Seidman, Karl F. "[Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs](https://www.innovations.harvard.edu/revitalizing-commerce-american-cities-practitioners-guide-urban-main-street-programs)." Chapters 1 and 2 in *Fannie Mae Foundation*, September 2004, pp. 3-6.
+Seidman, Karl F. "{{% resource_link "5fdc4485-6bc8-42cf-913c-28d9bd66d810" "Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs" %}}." Chapters 1 and 2 in *Fannie Mae Foundation*, September 2004, pp. 3-6.
 
 Business Improvement Districts (BID) are another revitalization model, which is quite similar to the Main Street model. If you are interested, please read the following article:
 
 Hoyt, Lorleen. "Planning through Compulsory Commercial Clubs: Business Improvement Districts." *Economic Affairs* 25, no. 4 (2005).
 
-The Web site of [MacArthur Foundation](http://www.macfound.org/site/c.lkLXJ8MQKrH/b.855229/k.CC2B/Home.htm), which provide some information about the New Communities Program and the Local Initiatives Support Corporation (LISC).
+The Web site of {{% resource_link "d7f24fc9-7fbb-4ed8-b2d9-7d826b9460f9" "MacArthur Foundation" %}}, which provide some information about the New Communities Program and the Local Initiatives Support Corporation (LISC).
 
-An article from "[U.S.A. Today](http://www.usatoday.com/money/companies/2004-08-31-inner-city_x.htm)" about the successful stories of exploratory retailers in inner cities.
+An article from "{{% resource_link "adea5cf9-bdef-4f59-8f4d-be7a146f2d3d" "U.S.A. Today" %}}" about the successful stories of exploratory retailers in inner cities.
 
 *Literature on the Information Infrastructure that may Help in the Redevelopment of Inner Cities*
 
-A good summary of neighborhood indicator systems by G. Thomas Kingsley from "[NNIP: Neighborhood Indicators: Take Advantage of the New Potential](http://www.urban.org/research/publication/neighborhood-indicators-taking-advantage-new-potential)."    
-Please skim the Boston indicators report 2004 by TBF (the Boston Foundation), which documents its biennial effort in [Boston Indicators Project](https://www.bostonindicators.org/?q&sortBy=date&sortOrder=desc&page=1).
+A good summary of neighborhood indicator systems by G. Thomas Kingsley from "{{% resource_link "e3f62dc5-8ea8-4e5c-a91f-b2724e0a8017" "NNIP: Neighborhood Indicators: Take Advantage of the New Potential" %}}."    
+Please skim the Boston indicators report 2004 by TBF (the Boston Foundation), which documents its biennial effort in {{% resource_link "c623c43f-4809-46ee-8746-9dc787af663f" "Boston Indicators Project" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -101,9 +101,9 @@ Galster, G., R. Hanson, M. Ratcliffe, H. Wolman, S. Coleman, and J. Freihage. "W
 
 Tobler, Waldo. "Thirty Five Years of Computer Cartograms." *Annals of the Association of American Geographers* 94, no. 1 (2004): 58-73.
 
-Du, Changming, and Lin Liu. "[Constructing contiguous area cartogram using arcview avenue (PDF)](https://proceedings.esri.com/library/userconf/proc99/proceed/papers/pap489/p489.htm)."
+Du, Changming, and Lin Liu. "{{% resource_link "03f72102-e5e9-49f5-8b52-9b47a67ba2c7" "Constructing contiguous area cartogram using arcview avenue (PDF)" %}}."
 
-Gastner, M. T., and M. E. J. Newman. "[Diffusion-based Method for Producing Density-equalizing Maps](http://www.pnas.org/cgi/content/full/101/20/7499)." 2004.
+Gastner, M. T., and M. E. J. Newman. "{{% resource_link "23250d18-7d96-405b-a016-35d988f945bb" "Diffusion-based Method for Producing Density-equalizing Maps" %}}." 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -113,14 +113,14 @@ Land Market Monitoring for Growth Management - Weifeng Li
 
 General Ideas of the Growth Management Options and their Impacts (Just Skim them to get a Basic Idea) 
 
-Landis, J., L. Deng, and M. Reilly. "[Growth Management Revisited: A Reassessment of its Efficacy, Price Effects and Impacts on Metropolitan Growth Patterns](http://escholarship.org/uc/item/26r5p50j#page-1)." Working Paper 2002-02. Berkeley, CA: University of California Institute of Urban and Regional Development, 2002.
+Landis, J., L. Deng, and M. Reilly. "{{% resource_link "f9807155-7a40-4c49-91d0-92733639b7fe" "Growth Management Revisited: A Reassessment of its Efficacy, Price Effects and Impacts on Metropolitan Growth Patterns" %}}." Working Paper 2002-02. Berkeley, CA: University of California Institute of Urban and Regional Development, 2002.
 
-Growth Management Tools: A Summary for Planning Boards in Massachusetts. ([PDF](https://www.mass.gov/doc/growth-management-tools-a-summary-for-planning-boards-in-massachusetts/download))
+Growth Management Tools: A Summary for Planning Boards in Massachusetts. ({{% resource_link "73d1eecd-4fae-46f2-b5f0-9cd12cfacf2a" "PDF" %}})
 
 *Difference Approaches of Land Market Monitoring Practice*   
 Inventory Approach:
 
-Knaap, Gerrit J. "Monitoring Land and Housing Markets: An Essential Tool for Smart Growth." Washington, DC: National Center for Housing and the Environment, 2004. ([PDF](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCUQFjAC&url=http%3A%2F%2Fwww.ibrarian.net%2Fnavon%2Fpaper%2FM_ONITORING_LAND_AND_HOUSING_MARKETS__AN_ESSENTIA.pdf%3Fpaperid%3D4684110&ei=utrMU4-wFtCVuASb54LoCw&usg=AFQjCNHwKszoYkkO_6wq41hKCqYCDnWJEQ&bvm=bv.71198958,d.c2E&cad=rja))
+Knaap, Gerrit J. "Monitoring Land and Housing Markets: An Essential Tool for Smart Growth." Washington, DC: National Center for Housing and the Environment, 2004. ({{% resource_link "9207ea8f-d3fe-4cc1-ac2e-561b5f14062e" "PDF" %}})
 
 Modeling Approach:
 
@@ -138,7 +138,7 @@ Review of Raj Singh's PhD Dissertation: "Collaborative Urban Information Systems
 The Role of GIS in Delivering Municipal Public Services - Fazilet Tanrikulu
 {{< tdclose >}}{{< tdopen >}}
 
-Harvey, F. "[Developing Geographic Information Infrastructures for Local Government: The Role of Trust](http://dx.doi.org/10.1111/1541-0064.02e10)." *The Canadian Geographer* 47, no. 1 (2003): 28-36.
+Harvey, F. "{{% resource_link "1714b10d-15c9-47ee-8beb-bb17b46099e8" "Developing Geographic Information Infrastructures for Local Government: The Role of Trust" %}}." *The Canadian Geographer* 47, no. 1 (2003): 28-36.
 
 Jacoby, S., J. Smith, L. Ting, and I. Williamson. "Developing a common spatial data infrastructure between state and local government - An Australian case study." *International Journal of Geographic Information Science* 16, no. 4 (2002): 305-322.
 
@@ -146,9 +146,9 @@ Longley, P. "Geographic information systems: A renaissance of geodemographics fo
 
 Maguire, D. J., and P. A. Longley. "The emergence of geoportals and their role in spatial data infrastructures." *Computers Environment and Urban Systems* 29 (2005): 3-14.
 
-Nevodic-Budic, Z. "[Evaluating the Effects of GIS Technology: Review of Methods](http://jpl.sagepub.com/cgi/content/abstract/13/3/284)." *Journal of Planning Literature* 13, no. 3 (February 1999): 284-295.
+Nevodic-Budic, Z. "{{% resource_link "57afbae2-d9cc-46aa-88c9-0e437a816fd5" "Evaluating the Effects of GIS Technology: Review of Methods" %}}." *Journal of Planning Literature* 13, no. 3 (February 1999): 284-295.
 
-Smith, L. D., J. F. Campbell, A. Subramanian, D. A. Bird, and A. C. Nelson. "[Strategic Planning for Municipal Information Systems: Some Lessons From a Large U.S. City](http://arp.sagepub.com/cgi/content/abstract/31/2/139)." *American Review of Public Administration* 31, no. 2 (June 2001): 139-157.
+Smith, L. D., J. F. Campbell, A. Subramanian, D. A. Bird, and A. C. Nelson. "{{% resource_link "dca732e7-d918-45fc-953d-4d5f8745d054" "Strategic Planning for Municipal Information Systems: Some Lessons From a Large U.S. City" %}}." *American Review of Public Administration* 31, no. 2 (June 2001): 139-157.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
